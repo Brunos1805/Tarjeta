@@ -3,9 +3,7 @@
 	padding: 0;
 	box-sizing: border-box;
 	font-family: Georgia;
-	font-weight: 100;
 	text-decoration:none;
-	box-sizing: border-box;
 
 }
 body{
@@ -15,15 +13,16 @@ body{
 }
 #division1{
 	background-color: #234963 ;
-	font-size: 90%;
 	text-align: center;
-	margin-right: 43%;
-	margin-left: 43%;
-	padding: 10px 17px;
+	margin: 0px auto;
 	color: #F5D4D4;
 	text-shadow: 1px 1px 2px #000000;
-	border-radius: 30%;
-
+	border: 1px solid #31AADD;
+	height: 30px;
+	width: 280px;
+	font-weight: 90%;
+	line-height: 30px;
+	overflow: ;
 }
 
 .tracking-in-contract{
@@ -34,3 +33,13 @@ body{
 		100%{letter-spacing:normal;opacity:1
 									}
 					}
+
+#encuesta {
+
+
+}
+
+@media screen and (max-with: 992px) {
+
+	
+}
