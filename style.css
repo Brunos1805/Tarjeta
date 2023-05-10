@@ -34,16 +34,3 @@ body{
 
 	}
 
-#encuesta {
-
-
-}
-
-@media screen and (max-with: 992px) {
-body{
-	background-color: #77BEEF ;
-	height: 100vh;
-	width: 100vw;
-	padding: 10px;
-	text-shadow: 1px white;
-}
