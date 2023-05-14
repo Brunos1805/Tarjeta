@@ -36,12 +36,20 @@ body{
 	border-radius: 5px;
 	}
 
+#formdegoogle{
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	}	
 
-@media screen and (max-with: 992px) {
-body{
-	background-color: #77BEEF ;
-	height: 100vh;
-	width: 100vw;
-	padding: 10px;
-	text-shadow: 1px white;
+#casa{
+		display:flex;
+	flex-direction: column;
+	align-items: center;
+	}
+
+html{
+display:flex;
+flex-direction: column;
+align-items: center;
 }
