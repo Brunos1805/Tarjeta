@@ -1,15 +1,18 @@
 *{
-	margin: 0px auto;
 	padding: 0;
 	box-sizing: border-box;
 	font-family: Montserrat,Georgia;
 	text-decoration:none;
+	margin: 0px auto;
+	place-items: center;
+
 
 }
 body{
 	background-color: #77BEEF ;
 	height: 100vh;
 	padding: 10px;
+	display: grid;
 }
 #division1{
 	background-color: #234963 ;
